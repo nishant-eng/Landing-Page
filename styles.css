@@ -99,7 +99,7 @@ html,body{
     background-size: cover;
     background-position: center;
 } 
-@media(max-width="1000px"){
+@media(max-width="500px"){
     #main{
         flex-direction: column;
     }
